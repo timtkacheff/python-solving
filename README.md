@@ -1,6 +1,7 @@
 # Python problem-solving
 
 Easy:
+- Latest Time by Replacing Hidden Digits (https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
 - Binary Tree Preorder Traversal (https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Palindrome Number (https://leetcode.com/problems/palindrome-number/)
