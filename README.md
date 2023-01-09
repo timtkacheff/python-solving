@@ -39,6 +39,7 @@ Easy:
 - Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- Partition Labels (https://leetcode.com/problems/partition-labels/)
 - Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ()
 - Gas Station (https://leetcode.com/problems/gas-station/)
 - Minimum Number of Arrows to Burst Balloons (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
