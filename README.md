@@ -1,6 +1,7 @@
 # Python problem-solving
 
 Easy:
+- Binary Tree Preorder Traversal (https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Palindrome Number (https://leetcode.com/problems/palindrome-number/)
 - Power of Two (https://leetcode.com/problems/power-of-two/)
