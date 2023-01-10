@@ -1,6 +1,7 @@
 # Python problem-solving
 
 Easy:
+- Same Tree (https://leetcode.com/problems/same-tree/)
 - Latest Time by Replacing Hidden Digits (https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
 - Binary Tree Preorder Traversal (https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
