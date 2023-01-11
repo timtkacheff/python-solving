@@ -41,6 +41,7 @@ Easy:
 - Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- Complex Number Multiplication (https://leetcode.com/problems/complex-number-multiplication/)
 - Minimum Time to Collect All Apples in a Tree (https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - Maximum of Absolute Value Expression (https://leetcode.com/problems/maximum-of-absolute-value-expression/)
 - Partition Labels (https://leetcode.com/problems/partition-labels/)
