@@ -55,4 +55,5 @@ Medium:
 - Minimum Rounds to Complete All Tasks (https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 
 Hard:
+- Last Substring in Lexicographical Order (https://leetcode.com/problems/last-substring-in-lexicographical-order/)
 - Max Points on a Line (https://leetcode.com/problems/max-points-on-a-line/)
