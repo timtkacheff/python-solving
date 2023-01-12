@@ -41,6 +41,7 @@ Easy:
 - Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- Number of Nodes in the Sub-Tree With the Same Label (https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 - Complex Number Multiplication (https://leetcode.com/problems/complex-number-multiplication/)
 - Minimum Time to Collect All Apples in a Tree (https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - Maximum of Absolute Value Expression (https://leetcode.com/problems/maximum-of-absolute-value-expression/)
