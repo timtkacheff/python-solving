@@ -58,5 +58,6 @@ Medium:
 - Minimum Rounds to Complete All Tasks (https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 
 Hard:
+- Longest Path With Different Adjacent Characters (https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 - Last Substring in Lexicographical Order (https://leetcode.com/problems/last-substring-in-lexicographical-order/)
 - Max Points on a Line (https://leetcode.com/problems/max-points-on-a-line/)
