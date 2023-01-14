@@ -7,7 +7,6 @@ Easy:
 - [[1.]](leetcode/1.py) Two Sum (https://leetcode.com/problems/two-sum/)
 - [[9.]](leetcode/9.py) Palindrome Number (https://leetcode.com/problems/palindrome-number/)
 - [[231.]](leetcode/231.py) Power of Two (https://leetcode.com/problems/power-of-two/)
-- [[234.]](leetcode/234.py) Palindrome Linked List (https://leetcode.com/problems/palindrome-linked-list/)
 - [[326.]](leetcode/326.py) Power of Three (https://leetcode.com/problems/power-of-three/)
 - [[409.]](leetcode/409.py) Longest Palindrome (https://leetcode.com/problems/longest-palindrome/)
 - [[461.]](leetcode/461.py) Hamming Distance (https://leetcode.com/problems/hamming-distance/)
