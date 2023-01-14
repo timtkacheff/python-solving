@@ -41,6 +41,7 @@ Easy:
 - Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- 132 Pattern (https://leetcode.com/problems/132-pattern/)
 - Lexicographically Smallest Equivalent String (https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - Maximum Number of Events That Can Be Attended (https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
 - Number of Nodes in the Sub-Tree With the Same Label (https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
