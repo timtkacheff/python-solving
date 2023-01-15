@@ -40,6 +40,7 @@ Easy:
 - [[2485.]](leetcode/2485.py) Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- [[685.]](leetcode/684.py) Redundant Connection (https://leetcode.com/problems/redundant-connection/)
 - [[456.]](leetcode/456.py) 132 Pattern (https://leetcode.com/problems/132-pattern/)
 - [[1061.]](leetcode/1061.py) Lexicographically Smallest Equivalent String (https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [[1353.]](leetcode/1353.py) Maximum Number of Events That Can Be Attended (https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
