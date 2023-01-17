@@ -40,6 +40,7 @@ Easy:
 - [[2485.]](leetcode/2485.py) Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- [[926.]](leetcode/926.py) Flip String to Monotone Increasing (https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 - [[57.]](leetcode/57.py) Insert Interval (https://leetcode.com/problems/insert-interval/)
 - [[685.]](leetcode/684.py) Redundant Connection (https://leetcode.com/problems/redundant-connection/)
 - [[456.]](leetcode/456.py) 132 Pattern (https://leetcode.com/problems/132-pattern/)
