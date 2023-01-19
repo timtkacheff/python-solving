@@ -40,6 +40,7 @@ Easy:
 - [[2485.]](leetcode/2485.py) Find the Pivot Integer (https://leetcode.com/problems/find-the-pivot-integer/)
 
 Medium:
+- [[974.]](leetcode/974.py) Subarray Sums Divisible by K (https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [[918.]](leetcode/918.py) Maximum Sum Circular Subarray (https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [[926.]](leetcode/926.py) Flip String to Monotone Increasing (https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 - [[57.]](leetcode/57.py) Insert Interval (https://leetcode.com/problems/insert-interval/)
